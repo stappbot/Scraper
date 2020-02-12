@@ -1,0 +1,21 @@
+{
+  "name": "Scraper",
+  "version": "1.0.0",
+  "description": "Scrape articles from the web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stappbot/Scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stappbot/Scraper/issues"
+  },
+  "homepage": "https://github.com/stappbot/Scraper#readme"
+}
